@@ -1,6 +1,0 @@
-The project is almost completed . All the components have been connected and we are able to move the webcam according to direction of movement of a person's head.
-The output is shown in the VR headset by the help of the pre-built Split -Screen-App to convert the phone output into the VR output.
-We have created a short video demonstration of the completed project till now.
-The link to the video is given below:
- https://photos.app.goo.gl/yQyxsmrMZnWqbuWX6
-

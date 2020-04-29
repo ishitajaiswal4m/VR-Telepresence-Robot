@@ -5,4 +5,6 @@ This system is kept in any remote location and is able to capture the environmen
 he is actually present there by the output on his  headset to give him a full real time experience.
 An added feature allows the camera to move in the direction of user's head movements to give him a full 360 degree experience.
 We almost created a model for this using the previous python code by uploading it into the Raspberry Pi board and interfaced all the devices with the board.
-Following is the block diagram for the  proposed model 
+The complete demonstration of the working project can be accessed from the following link:
+https://photos.app.goo.gl/yQyxsmrMZnWqbuWX6
+
